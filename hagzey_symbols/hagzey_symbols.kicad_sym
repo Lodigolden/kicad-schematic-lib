@@ -8810,7 +8810,7 @@
 			)
 		)
 	)
-	(symbol "ldo_3v3_TCR2EF33_LMCT"
+	(symbol "ldo_3v3_200mA_TCR2EF33_LMCT"
 		(pin_names
 			(offset 0.254)
 		)
@@ -8818,15 +8818,15 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 3.81 5.08 0)
+			(at 8.636 5.08 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "ldo_3v3_TCR2EF33_LMCT"
-			(at 3.81 2.54 0)
+		(property "Value" "TCR2EF33"
+			(at 8.636 2.54 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -8880,7 +8880,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "ldo_3v3_TCR2EF33_LMCT_1_1"
+		(symbol "ldo_3v3_200mA_TCR2EF33_LMCT_1_1"
 			(rectangle
 				(start 16.51 -1.27)
 				(end 34.29 -12.7)
