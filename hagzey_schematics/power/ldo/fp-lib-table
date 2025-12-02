@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "hagzey_footprints")(type "KiCad")(uri "C:/Users/adamh/kicad-schematic-lib/hagzey_footprints/hagzey_footprints.pretty")(options "")(descr ""))
+)
