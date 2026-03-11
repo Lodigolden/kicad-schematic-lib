@@ -671,4 +671,15 @@
 		(uuid "59be81d9-ef22-4eed-894a-530a1a8d8019")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/adamh/kicad-schematic-lib/hagzey_models/eeprom_M24C02_WMP6TP.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
